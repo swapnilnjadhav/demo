@@ -1,14 +1,3 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "termscontent": "<span>The USAA Insurance Agency (the “Agency”) contracts with insurance companies that are not affiliated with USAA to offer products and services (“third-party insurance products”) on their behalf. Third-party insurance products are not underwritten by USAA or its affiliates. The Agency receives a commission on the sale or renewal of third-party insurance products and may receive other performance-based compensation from them. Product availability may vary in some locations. Applications for insurance are subject to underwriting by the insurance carrier. Any product or coverage descriptions are brief. All coverages are subject to the terms and conditions of your policy. Read your policy for details. USAA Insurance Agency means USAA Insurance Agency, Inc., or USAA of Texas Insurance Agency (collectively the “Agency”). CA Lic #0D78305, TX Lic. #7096. 9800 Fredericksburg Road, San Antonio, TX 78288.</span><br>Property and casualty insurance provided by United Services Automobile Association, USAA Casualty Insurance Company, USAA General Indemnity Company, Garrison Property and Casualty Insurance Company, based in San Antonio, TX; USAA Limited (UK) and USAA S.A. (Europe) and is available only to persons eligible for P&C group membership. Each company has sole financial responsibility for its own products."
 }
